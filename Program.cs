@@ -111,7 +111,8 @@ while (running)
             break;
 
         case "0":
-            Console.WriteLine($"\nThank you for calling, {caller.Name}. Goodbye!\n");
+            logger.PrintSummary(caller.Name); // ✅ print before goodbye
+            Console.WriteLine($"Thank you for calling, {caller.Name}. Goodbye!\n");
             running = false;
             break;
         default:
