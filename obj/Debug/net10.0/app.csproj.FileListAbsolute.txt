@@ -1,0 +1,14 @@
+Z:\Users\Charnel\Desktop\CharnelFolder\School\Projects\IVRSimulator\app\bin\Debug\net10.0\app.exe
+Z:\Users\Charnel\Desktop\CharnelFolder\School\Projects\IVRSimulator\app\bin\Debug\net10.0\app.deps.json
+Z:\Users\Charnel\Desktop\CharnelFolder\School\Projects\IVRSimulator\app\bin\Debug\net10.0\app.runtimeconfig.json
+Z:\Users\Charnel\Desktop\CharnelFolder\School\Projects\IVRSimulator\app\bin\Debug\net10.0\app.dll
+Z:\Users\Charnel\Desktop\CharnelFolder\School\Projects\IVRSimulator\app\bin\Debug\net10.0\app.pdb
+Z:\Users\Charnel\Desktop\CharnelFolder\School\Projects\IVRSimulator\app\obj\Debug\net10.0\app.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Users\Charnel\Desktop\CharnelFolder\School\Projects\IVRSimulator\app\obj\Debug\net10.0\app.AssemblyInfoInputs.cache
+Z:\Users\Charnel\Desktop\CharnelFolder\School\Projects\IVRSimulator\app\obj\Debug\net10.0\app.AssemblyInfo.cs
+Z:\Users\Charnel\Desktop\CharnelFolder\School\Projects\IVRSimulator\app\obj\Debug\net10.0\app.csproj.CoreCompileInputs.cache
+Z:\Users\Charnel\Desktop\CharnelFolder\School\Projects\IVRSimulator\app\obj\Debug\net10.0\app.dll
+Z:\Users\Charnel\Desktop\CharnelFolder\School\Projects\IVRSimulator\app\obj\Debug\net10.0\refint\app.dll
+Z:\Users\Charnel\Desktop\CharnelFolder\School\Projects\IVRSimulator\app\obj\Debug\net10.0\app.pdb
+Z:\Users\Charnel\Desktop\CharnelFolder\School\Projects\IVRSimulator\app\obj\Debug\net10.0\app.genruntimeconfig.cache
+Z:\Users\Charnel\Desktop\CharnelFolder\School\Projects\IVRSimulator\app\obj\Debug\net10.0\ref\app.dll
